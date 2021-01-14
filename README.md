@@ -1,1 +1,0 @@
-# Spectra-of-sparse-graphs
